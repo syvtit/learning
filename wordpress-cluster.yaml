@@ -1,0 +1,13 @@
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+
+metadata:
+  name: cluster-wordpress
+  region: ap-northeast-1
+
+nodeGroups: 
+  - name: ng-wordpress
+    instanceType: t2.small
+    desiredCapacity: 2
+    ssh:
+      publicKeyName: syvtit-eks
