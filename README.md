@@ -1,2 +1,2 @@
-Email:: syvtit@gmail.com
+Email: syvtit@gmail.com
 
