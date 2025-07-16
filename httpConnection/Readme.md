@@ -4,7 +4,7 @@
 <br><br><b>B2:</b>
 <br>mở trình duyệt web để truy cập vào http://ip_attacker:8000 (sử dụng phần này để control victim nếu có kết nối
 <br><br><b>B3:</b> 
-<br>chạy các file c2_client tương ứng dưới client (theo từng ngữ cảnh thử nghiệm: exe, dll, ps1, php, aspx
+<br>chạy các file c2_client tương ứng dưới client (theo từng ngữ cảnh thử nghiệm: exe, dll, ps1, php, aspx)
 <br><br><b>B4:</b>
   <br>để chạy file dll thì theo lệnh sau: rundll32.exe c2_client.dll,Runme
 <br><br><b>B5:</b>
